@@ -75,7 +75,12 @@ overflow: visible;
   margin-right: 15px;
 }
 
+.cartLogo:hover {
+  cursor: pointer;
+}
+
 img:hover {
+  cursor: pointer;
   border: 2px solid var(--Orange);
   border-radius: 20px;
 }
@@ -114,6 +119,7 @@ img:hover {
       font-weight: 300;
       color: var(--Dark-grayish-blue);
       padding-right: 20px;
+      text-decoration: none;
     }
     a:hover {
       cursor: pointer;
