@@ -18,11 +18,11 @@ export const MobileHeader = () => {
               <Close className='close' onClick={handleToggleMenu}/> 
               <nav>
                 <ul>
-                  <li><a>Collections</a></li>
-                  <li><a>Men</a></li>
-                  <li><a>Women</a></li>
-                  <li><a>About</a></li>
-                  <li><a>Contact</a></li>
+                  <li><a href='/'>Collections</a></li>
+                  <li><a href='/'>Men</a></li>
+                  <li><a href='/'>Women</a></li>
+                  <li><a href='/'>About</a></li>
+                  <li><a href='/'>Contact</a></li>
                 </ul>
               </nav>
               </div>
@@ -39,11 +39,11 @@ export const DesktopHeader = () => {
         <Logo/>
               <nav>
                 <ul>
-                  <a>Collections</a>
-                  <a>Men</a>
-                  <a>Women</a>
-                  <a>About</a>
-                  <a>Contact</a>
+                  <a href='/'>Collections</a>
+                  <a href='/'>Men</a>
+                  <a href='/'>Women</a>
+                  <a href='/'>About</a>
+                  <a href='/'>Contact</a>
                 </ul>
               </nav>                    
                   </div>
