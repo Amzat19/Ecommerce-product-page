@@ -33,7 +33,7 @@ function App() {
   }
 
   const decrease = () => {
-    setAmount(amount - 1)
+    amount > 0 ? setAmount(amount - 1) : setAmount(amount)
   }
 
   const [showCartItems, setShowCartItems] = useState(false);
@@ -97,7 +97,7 @@ function App() {
             <Minus className='minus' onClick={decrease}/>
             <button className='amount-number'>{amount}</button>
           </div>
-          <button className='button' type='button' onClick={addToCart}> 
+          <button className='button' type='button' onClick={addToCart} disabled={amount <= 0 ? true : false}> 
          <CartLogo className='cart-button'/> Add to Cart
           </button>
         </div>
