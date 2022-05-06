@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My Solution URL](https://github.com/Amzat19/Ecommerce-product-page)
-- Live Site URL: [My live site URL](https://your-live-site-url.com)
+- Live Site URL: [My live site URL](https://fastidious-mochi-d83db0.netlify.app/)
 
 ## My process
 
