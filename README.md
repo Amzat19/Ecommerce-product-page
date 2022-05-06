@@ -11,9 +11,6 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
   - [Built with](#built-with)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -30,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Solution URL](https://github.com/Amzat19/Ecommerce-product-page)
+- Live Site URL: [My live site URL](https://your-live-site-url.com)
 
 ## My process
 
@@ -48,6 +45,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com);
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Amzat19);
-- Twitter - [@yourusername](https://www.twitter.com/Kunmi49693753);
+<!-- - Website - [Add your name here](https://www.your-site.com); -->
+- Frontend Mentor - [Link to my Frontendmentor Username](https://www.frontendmentor.io/profile/Amzat19);
+- Twitter - [Link to my Twitter username](https://www.twitter.com/Kunmi49693753);
